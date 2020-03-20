@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content { }\n",],undefined,{path:"./pages/order/trace.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/order/trace.wxml') } }));

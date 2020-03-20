@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "详情展示",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {
+    "u-parse": "/components/u-parse/u-parse"
+  }
+}
